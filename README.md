@@ -81,8 +81,15 @@ root@system:~$ ./status_report.sh
 <!-- GitHub Stats -->
 <h2 align="center"> 📊 SYSTEM.METRICS // GITHUB STATS </h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocruvinell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocruvinell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brunocruvinell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&cache_bypass=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocruvinell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc&cache_bypass=1" />
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunocruvinell&theme=tokyo-night&bg_color=0D1117&color=00ffcc&line=00ffcc&point=FFFFFF&hide_border=true&cache_bypass=1" />
 </div>
 
 <br>
