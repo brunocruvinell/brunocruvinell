@@ -68,50 +68,6 @@ root@system:~$ ./status_report.sh
 
 <br>
 
-<!-- GitHub Trophies -->
-<h2 align="center"> 🏆 ACHIEVEMENT.UNLOCKS // TROPHIES </h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brunocruvinell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br>
-
-<!-- GitHub Stats -->
-<h2 align="center"> 📊 SYSTEM.METRICS // GITHUB STATS </h2>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brunocruvinell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&cache_bypass=1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocruvinell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc&cache_bypass=1" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunocruvinell&theme=tokyo-night&bg_color=0D1117&color=00ffcc&line=00ffcc&point=FFFFFF&hide_border=true&cache_bypass=1" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunocruvinell&theme=tokyo-night&bg_color=0D1117&color=00ffcc&line=00ffcc&point=FFFFFF&hide_border=true" />
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<h2 align="center"> 🐍 CONTRIBUTION.MAP </h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunocruvinell/brunocruvinell/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunocruvinell/brunocruvinell/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- Rodapé / Contato -->
 <h2 align="center"> 📡 COMMUNICATION.LINK </h2>
 <div align="center">
