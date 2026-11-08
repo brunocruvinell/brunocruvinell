@@ -47,50 +47,16 @@
 <!-- Missões Atuais: painel de monitoramento -->
 <h2 align="center"> 🛰️ MISSION.CONTROL // ACTIVE_PROCESSES </h2>
 
-```yaml
-# bruno@unb:~$ kubectl get missions --watch
-apiVersion: v2026
-kind: MissionControl
-metadata:
-  operator: brunocruvinell
-  location: Brasília, BR
-  uptime: "Engenharia de Software · UnB (2025–2029)"
+```diff
+@@ bruno@unb:~$ ./mission_control --status @@
 
-spec:
-  primary_objective: "Carreira em Dados"
++ [RUNNING]  ████████░░  80%   Modelagem de dados & SQL avançado
++ [RUNNING]  ███████░░░  70%   Automação de relatórios via API (Python)
++ [RUNNING]  ███████░░░  70%   Dashboards com Power BI
++ [STABLE ]  █████████░  90%   Arquitetura MVC em projetos complexos
++ [LOADING]  ██████░░░░  60%   HTML, CSS & JavaScript
 
-  processes:
-    - pid: 001
-      name: data-modeling.service
-      task: "Bancos relacionais, SQL avançado e modelagem"
-      status: RUNNING
-      progress: "▰▰▰▰▰▰▰▰▱▱ 80%"
-
-    - pid: 002
-      name: api-automation.worker
-      task: "Automação de relatórios via API + Python"
-      status: RUNNING
-      progress: "▰▰▰▰▰▰▰▱▱▱ 70%"
-
-    - pid: 003
-      name: bi-dashboards.daemon
-      task: "Dashboards e storytelling com Power BI"
-      status: RUNNING
-      progress: "▰▰▰▰▰▰▰▱▱▱ 70%"
-
-    - pid: 004
-      name: mvc-architecture.core
-      task: "Arquitetura MVC em projetos complexos"
-      status: STABLE
-      progress: "▰▰▰▰▰▰▰▰▰▱ 90%"
-
-    - pid: 005
-      name: web-fundamentals.module
-      task: "HTML, CSS e JavaScript"
-      status: LOADING
-      progress: "▰▰▰▰▰▰▱▱▱▱ 60%"
-
-  next_deploy: "Pipeline de dados ponta a ponta (ETL → SQL → Dashboard)"
+@@ next_deploy → Pipeline ETL ➜ SQL ➜ Dashboard @@
 ```
 
 <br>
